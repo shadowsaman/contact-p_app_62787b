@@ -47,7 +47,7 @@ export function Navbar() {
               <div className="w-8 h-8 rounded-lg bg-accent flex items-center justify-center">
                 <span className="text-accent-foreground font-black text-sm">C</span>
               </div>
-              <span className="font-bold text-foreground font-heading text-lg">Contaqt</span>
+              <span className="font-bold text-foreground font-heading text-lg">Contact</span>
             </a>
 
             {/* Desktop nav */}
