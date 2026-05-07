@@ -80,7 +80,7 @@ export function Hero() {
             href="#locations"
             className="inline-flex items-center gap-2 h-12 px-8 rounded-[var(--radius)] border-2 border-primary-foreground/30 text-primary-foreground font-semibold text-sm hover:border-primary-foreground/60 hover:bg-primary-foreground/10 transition-all duration-200"
           >
-            View Locati GITHUB TEST
+            View HEllo GITHUB TEST
           </a>
         </motion.div>
       </div>
